@@ -1,7 +1,7 @@
 # Krakencreds
-A new way to potentially end most credential phishing
+**A new way to potentially end most credential phishing**
 
-Krakencreds are a new method in cybersecurity that aims to make the phishing of credentials implausible for most attackers. It was invented in view of how widespread the following type of attack was:
+Krakencreds are a new cybersecurity framework that aims to make the phishing of credentials implausible for most attackers. It was invented in view of how widespread the following type of attack was:
 1) The attacker creates a fake site or account to impersonate a real site, trusted individual or organization.
 2) Through social engineering, link spoofing or other methods, they direct users to the fake site or account.
 3) The user is asked to enter their credentials (for an alleged verification, for emergency protection or simply for logging in after supposedly having been logged out), and as the page looks legitimate, they duly provide them.
